@@ -1,0 +1,15 @@
+body{
+   Margin-top:5px; 
+  text-align:middle;
+  text-weight:bold;
+  background:purple
+}
+.main{
+  margin-top:4px;
+  width:300px;0
+}
+.sub{
+  margin-right:100px;
+  width:200px;
+  height:200px;
+}
